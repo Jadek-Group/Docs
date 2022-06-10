@@ -1,4 +1,4 @@
-#GIT WORKFLOW
+# GIT WORKFLOW
 ###### Pull from the staging branch to sync your local repository with recent changes
 
 ```git pull origin staging ```
